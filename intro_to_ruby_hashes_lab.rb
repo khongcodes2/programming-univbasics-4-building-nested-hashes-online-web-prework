@@ -28,7 +28,12 @@ def monopoly_with_third_tier
       :key3 => 3,
       :key4 => 4
     },
-    :names => "How did they pare it down I don't understand"
+    :names => {
+      :key1 => 1,
+      :key2 => 2,
+      :key3 => 3,
+      :key4 => 4
+    }
   }
 }
 end
